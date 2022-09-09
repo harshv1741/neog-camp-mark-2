@@ -167,9 +167,6 @@ function quizStart() {
 
 }
 
-
-
-
 //🪝 Program Entry Point 
 
 // 👇 ❕💻 Menu starts from here
